@@ -13,3 +13,7 @@
 2. Backend
 3. Database
 4. Cách thức các thành phần giao tiếp, trao đổi dữ liệu
+
+### Tìm hiểu về các hệ thống quản lý mã nguồn(Github,Gitlab...)
+1. Các lệnh git cơ bản
+2. Gitflow
